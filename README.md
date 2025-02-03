@@ -23,7 +23,7 @@ I enjoy tackling challenges that require **curiosity, persistence, and collabora
 ---
 
 ### My Core Skills:  
-- **Data Analysis**: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Data Analysis**: Salesforce, CRM Analytics, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Data Visualization**: Tableau, Power BI, Excel  
 - **Predictive Analytics**: Regression, Time Series, Clustering, EDA  
 - **Storytelling with Data**: Translating complex datasets into clear and compelling narratives  
